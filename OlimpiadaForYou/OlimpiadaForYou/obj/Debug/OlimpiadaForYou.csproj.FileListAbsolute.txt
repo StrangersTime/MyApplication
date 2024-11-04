@@ -1,0 +1,154 @@
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe.config
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.pdb
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.AssemblyReference.cache
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\App.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.cache
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.lref
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.g.resources
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.Properties.Resources.resources
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.GenerateResource.cache
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.CoreCompileInputs.cache
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.exe
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.pdb
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.dll
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.dll
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.xml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.xml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\ru\EntityFramework.resources.dll
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_Content.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\Olimpiad.5F0B24A9.Up2Date
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe.config
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.pdb
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.dll
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.dll
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.xml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.xml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\ru\EntityFramework.resources.dll
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.AssemblyReference.cache
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\App.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_Content.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.cache
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.lref
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.g.resources
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.Properties.Resources.resources
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.GenerateResource.cache
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.CoreCompileInputs.cache
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\Olimpiad.5F0B24A9.Up2Date
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.exe
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.pdb
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ForTest.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ForTest.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe.config
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.pdb
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_Content.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.cache
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.lref
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.g.resources
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.Properties.Resources.resources
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\Olimpiad.5F0B24A9.Up2Date
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.exe
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.pdb
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.g.cs
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.baml
+F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ListUsers.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ListUsers.baml
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\AddScore.g.cs
+C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\AddScore.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe.config
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.pdb
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\AddScore.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ListUsers.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_Content.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.cache
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou_MarkupCompile.lref
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\AddScore.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreatorWindow.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ListUsers.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\RegistrationWindow.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UserWindow.baml
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.g.resources
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.Properties.Resources.resources
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\Olimpiad.5F0B24A9.Up2Date
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.exe
+C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.pdb

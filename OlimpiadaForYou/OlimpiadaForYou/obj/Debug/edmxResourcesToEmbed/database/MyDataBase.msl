@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище user91_dbModelContainer" CdmEntityContainer="user91_dbEntities1">
+    <EntitySetMapping Name="Olimp_Class">
+      <EntityTypeMapping TypeName="user91_dbModel.Olimp_Class">
+        <MappingFragment StoreEntitySet="Olimp_Class">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Interval" ColumnName="Interval" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olimp_Difficulty">
+      <EntityTypeMapping TypeName="user91_dbModel.Olimp_Difficulty">
+        <MappingFragment StoreEntitySet="Olimp_Difficulty">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olimp_Olimp">
+      <EntityTypeMapping TypeName="user91_dbModel.Olimp_Olimp">
+        <MappingFragment StoreEntitySet="Olimp_Olimp">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_Creator" ColumnName="ID_Creator" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ID_Class" ColumnName="ID_Class" />
+          <ScalarProperty Name="ID_Difficulty" ColumnName="ID_Difficulty" />
+          <ScalarProperty Name="ID_Subject" ColumnName="ID_Subject" />
+          <ScalarProperty Name="DateOfEnd" ColumnName="DateOfEnd" />
+          <ScalarProperty Name="DateOfEvent" ColumnName="DateOfEvent" />
+          <ScalarProperty Name="MaxGoal" ColumnName="MaxGoal" />
+          <ScalarProperty Name="Duration" ColumnName="Duration" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olimp_Registration">
+      <EntityTypeMapping TypeName="user91_dbModel.Olimp_Registration">
+        <MappingFragment StoreEntitySet="Olimp_Registration">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="ID_User" ColumnName="ID_User" />
+          <ScalarProperty Name="ID_Olimp" ColumnName="ID_Olimp" />
+          <ScalarProperty Name="Result" ColumnName="Result" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olimp_Role">
+      <EntityTypeMapping TypeName="user91_dbModel.Olimp_Role">
+        <MappingFragment StoreEntitySet="Olimp_Role">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olimp_Subject">
+      <EntityTypeMapping TypeName="user91_dbModel.Olimp_Subject">
+        <MappingFragment StoreEntitySet="Olimp_Subject">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Olimp_Users">
+      <EntityTypeMapping TypeName="user91_dbModel.Olimp_Users">
+        <MappingFragment StoreEntitySet="Olimp_Users">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Surname" ColumnName="Surname" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Patronymic" ColumnName="Patronymic" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="ID_Role" ColumnName="ID_Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

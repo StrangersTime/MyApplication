@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="user91_dbModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Olimp_Class">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Interval" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Olimp_Olimp" Relationship="Self.FK_Olimp_Olimp_Olimp_Class" FromRole="Olimp_Class" ToRole="Olimp_Olimp" />
+  </EntityType>
+  <EntityType Name="Olimp_Difficulty">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Olimp_Olimp" Relationship="Self.FK_Olimp_Olimp_Olimp_Difficulty" FromRole="Olimp_Difficulty" ToRole="Olimp_Olimp" />
+  </EntityType>
+  <EntityType Name="Olimp_Olimp">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Creator" Type="Int32" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Description" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ID_Class" Type="Int32" Nullable="false" />
+    <Property Name="ID_Difficulty" Type="Int32" Nullable="false" />
+    <Property Name="ID_Subject" Type="Int32" Nullable="false" />
+    <Property Name="DateOfEnd" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DateOfEvent" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="MaxGoal" Type="Int32" Nullable="false" />
+    <Property Name="Duration" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Olimp_Class" Relationship="Self.FK_Olimp_Olimp_Olimp_Class" FromRole="Olimp_Olimp" ToRole="Olimp_Class" />
+    <NavigationProperty Name="Olimp_Difficulty" Relationship="Self.FK_Olimp_Olimp_Olimp_Difficulty" FromRole="Olimp_Olimp" ToRole="Olimp_Difficulty" />
+    <NavigationProperty Name="Olimp_Subject" Relationship="Self.FK_Olimp_Olimp_Olimp_Subject" FromRole="Olimp_Olimp" ToRole="Olimp_Subject" />
+    <NavigationProperty Name="Olimp_Registration" Relationship="Self.FK_Olimp_Registration_Olimp_Olimp" FromRole="Olimp_Olimp" ToRole="Olimp_Registration" />
+  </EntityType>
+  <EntityType Name="Olimp_Registration">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_User" Type="Int32" Nullable="false" />
+    <Property Name="ID_Olimp" Type="Int32" Nullable="false" />
+    <Property Name="Result" Type="Int32" />
+    <NavigationProperty Name="Olimp_Olimp" Relationship="Self.FK_Olimp_Registration_Olimp_Olimp" FromRole="Olimp_Registration" ToRole="Olimp_Olimp" />
+    <NavigationProperty Name="Olimp_Users" Relationship="Self.FK_Olimp_Registration_Olimp_Users" FromRole="Olimp_Registration" ToRole="Olimp_Users" />
+  </EntityType>
+  <EntityType Name="Olimp_Role">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Olimp_Users" Relationship="Self.FK_Olimp_Users_Olimp_Role" FromRole="Olimp_Role" ToRole="Olimp_Users" />
+  </EntityType>
+  <EntityType Name="Olimp_Subject">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Olimp_Olimp" Relationship="Self.FK_Olimp_Olimp_Olimp_Subject" FromRole="Olimp_Subject" ToRole="Olimp_Olimp" />
+  </EntityType>
+  <EntityType Name="Olimp_Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Patronymic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ID_Role" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Olimp_Registration" Relationship="Self.FK_Olimp_Registration_Olimp_Users" FromRole="Olimp_Users" ToRole="Olimp_Registration" />
+    <NavigationProperty Name="Olimp_Role" Relationship="Self.FK_Olimp_Users_Olimp_Role" FromRole="Olimp_Users" ToRole="Olimp_Role" />
+  </EntityType>
+  <Association Name="FK_Olimp_Olimp_Olimp_Class">
+    <End Role="Olimp_Class" Type="Self.Olimp_Class" Multiplicity="1" />
+    <End Role="Olimp_Olimp" Type="Self.Olimp_Olimp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Olimp_Class">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Olimp_Olimp">
+        <PropertyRef Name="ID_Class" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Olimp_Olimp_Olimp_Difficulty">
+    <End Role="Olimp_Difficulty" Type="Self.Olimp_Difficulty" Multiplicity="1" />
+    <End Role="Olimp_Olimp" Type="Self.Olimp_Olimp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Olimp_Difficulty">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Olimp_Olimp">
+        <PropertyRef Name="ID_Difficulty" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Olimp_Olimp_Olimp_Subject">
+    <End Role="Olimp_Subject" Type="Self.Olimp_Subject" Multiplicity="1" />
+    <End Role="Olimp_Olimp" Type="Self.Olimp_Olimp" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Olimp_Subject">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Olimp_Olimp">
+        <PropertyRef Name="ID_Subject" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Olimp_Registration_Olimp_Olimp">
+    <End Role="Olimp_Olimp" Type="Self.Olimp_Olimp" Multiplicity="1" />
+    <End Role="Olimp_Registration" Type="Self.Olimp_Registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Olimp_Olimp">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Olimp_Registration">
+        <PropertyRef Name="ID_Olimp" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Olimp_Registration_Olimp_Users">
+    <End Role="Olimp_Users" Type="Self.Olimp_Users" Multiplicity="1" />
+    <End Role="Olimp_Registration" Type="Self.Olimp_Registration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Olimp_Users">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Olimp_Registration">
+        <PropertyRef Name="ID_User" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Olimp_Users_Olimp_Role">
+    <End Role="Olimp_Role" Type="Self.Olimp_Role" Multiplicity="1" />
+    <End Role="Olimp_Users" Type="Self.Olimp_Users" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Olimp_Role">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Olimp_Users">
+        <PropertyRef Name="ID_Role" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="user91_dbEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Olimp_Class" EntityType="Self.Olimp_Class" />
+    <EntitySet Name="Olimp_Difficulty" EntityType="Self.Olimp_Difficulty" />
+    <EntitySet Name="Olimp_Olimp" EntityType="Self.Olimp_Olimp" />
+    <EntitySet Name="Olimp_Registration" EntityType="Self.Olimp_Registration" />
+    <EntitySet Name="Olimp_Role" EntityType="Self.Olimp_Role" />
+    <EntitySet Name="Olimp_Subject" EntityType="Self.Olimp_Subject" />
+    <EntitySet Name="Olimp_Users" EntityType="Self.Olimp_Users" />
+    <AssociationSet Name="FK_Olimp_Olimp_Olimp_Class" Association="Self.FK_Olimp_Olimp_Olimp_Class">
+      <End Role="Olimp_Class" EntitySet="Olimp_Class" />
+      <End Role="Olimp_Olimp" EntitySet="Olimp_Olimp" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Olimp_Olimp_Olimp_Difficulty" Association="Self.FK_Olimp_Olimp_Olimp_Difficulty">
+      <End Role="Olimp_Difficulty" EntitySet="Olimp_Difficulty" />
+      <End Role="Olimp_Olimp" EntitySet="Olimp_Olimp" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Olimp_Olimp_Olimp_Subject" Association="Self.FK_Olimp_Olimp_Olimp_Subject">
+      <End Role="Olimp_Subject" EntitySet="Olimp_Subject" />
+      <End Role="Olimp_Olimp" EntitySet="Olimp_Olimp" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Olimp_Registration_Olimp_Olimp" Association="Self.FK_Olimp_Registration_Olimp_Olimp">
+      <End Role="Olimp_Olimp" EntitySet="Olimp_Olimp" />
+      <End Role="Olimp_Registration" EntitySet="Olimp_Registration" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Olimp_Registration_Olimp_Users" Association="Self.FK_Olimp_Registration_Olimp_Users">
+      <End Role="Olimp_Users" EntitySet="Olimp_Users" />
+      <End Role="Olimp_Registration" EntitySet="Olimp_Registration" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Olimp_Users_Olimp_Role" Association="Self.FK_Olimp_Users_Olimp_Role">
+      <End Role="Olimp_Role" EntitySet="Olimp_Role" />
+      <End Role="Olimp_Users" EntitySet="Olimp_Users" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,127 @@
+﻿<Window x:Class="OlimpiadaForYou.EditUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OlimpiadaForYou"
+        mc:Ignorable="d"
+        Title="Изменение - Участник" Height="540" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FF110026" Icon="/icon.png">
+    <Window.Resources>
+        <Style TargetType="ListView">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="ListView">
+                        <Border Width="355" CornerRadius="20" BorderBrush="#FF110026" BorderThickness="1" Background="White">
+                            <ScrollViewer Width="350">
+                                <ItemsPresenter Width="350"/>
+                            </ScrollViewer>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"></Setter>
+            <Setter Property="Foreground" Value="#FF110026"></Setter>
+            <Setter Property="FontSize" Value="14pt"></Setter>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border BorderBrush="#FF110026" BorderThickness="2" CornerRadius="15" Background="White">
+                            <ScrollViewer x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"/>
+            <Setter Property="Foreground" Value="#FF110026"/>
+            <Setter Property="FontSize" Value="12pt"/>
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"/>
+            <Setter Property="Background" Value="#FF110026"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14pt"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" BorderBrush="White" BorderThickness="4" CornerRadius="20">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF00E9DE"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="PasswordBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="PasswordBox">
+                        <Border BorderBrush="#FF110026" BorderThickness="2" CornerRadius="15" Background="White">
+                            <ScrollViewer x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"/>
+            <Setter Property="Foreground" Value="#FF110026"/>
+            <Setter Property="FontSize" Value="12pt"/>
+        </Style>
+    </Window.Resources>
+    <Grid Height="500" VerticalAlignment="Top">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="85"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="85"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image Source="/pattern2.png" Width="500" Height="500"/>
+            <TextBlock Text="Редактор профиля" Foreground="#FF00E9DE" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="30" TextWrapping="Wrap" TextAlignment="Center" Grid.Column="1" />
+            <Image Source="/pattern2.png" Width="500" Height="500" Grid.Column="2"/>
+        </Grid>
+        <Border Grid.Row="1" Margin="10 10 10 10" BorderBrush="White" BorderThickness="5,5,5,5" CornerRadius="20,20,20,20" Padding="5,5,5,5" Background="Black">
+            <Border Background="White" CornerRadius="15,15,15,15">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel>
+                        <TextBlock Text="Реальная фамилия:" HorizontalAlignment="Center" Margin="0,15,0,0"></TextBlock>
+                        <TextBox x:Name="tb_Surname" Margin="0,5,0,0" Width="300" TextAlignment="Center" Padding="5,10,10,5" PreviewTextInput="tb_Surname_PreviewTextInput"/>
+                        <TextBlock Text="Реальное имя:" HorizontalAlignment="Center" Margin="0,15,0,0"></TextBlock>
+                        <TextBox x:Name="tb_Name" Margin="0,5,0,0" Width="300" TextAlignment="Center" Padding="5,10,10,5" PreviewTextInput="tb_Name_PreviewTextInput"/>
+                        <TextBlock Text="Реальное отчество:" HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" MaxWidth="170"></TextBlock>
+                        <TextBox x:Name="tb_Patronymic" Margin="0,10,0,0" Width="300" TextAlignment="Center" Padding="5,10,10,5" PreviewTextInput="tb_Patronymic_PreviewTextInput"/>
+                    </StackPanel>
+                    <StackPanel Grid.Column="1">
+                        <TextBlock Text="Подходящий логин:" HorizontalAlignment="Center" Margin="0,15,0,0"></TextBlock>
+                        <TextBox x:Name="tb_Login" Margin="0,5,0,0" Width="300" TextAlignment="Center" Padding="5,10,10,5"/>
+                        <TextBlock Text="Пароль получше:" HorizontalAlignment="Center" Margin="0,15,0,0"></TextBlock>
+                        <TextBox x:Name="tb_Password" Margin="0,5,0,0" Width="300" TextAlignment="Center" Padding="5,10,10,5"/>
+                        <TextBlock Text="Настоящий день Рождения:" HorizontalAlignment="Center" Margin="0,15,0,0" TextWrapping="Wrap" TextAlignment="Center"></TextBlock>
+                        <DatePicker FontFamily="Press Start 2P" FontSize="18" Foreground="#FF110026" BorderBrush="{x:Null}" x:Name="dp_Birthday" Margin="0,5,0,0" Width="300" Padding="5,10,10,5"/>
+                    </StackPanel>
+                    <Button x:Name="ButEdit" Click="ButEdit_Click" Content="Теперь всё верно" HorizontalAlignment="Center" Width="335" Height="45" Grid.ColumnSpan="2" VerticalAlignment="Bottom" Margin="0,0,0,55"/>
+                    <Button x:Name="ButReturn" Click="ButReturn_Click" Content="Хочу назад!" HorizontalAlignment="Center" Width="255" Height="45" Grid.ColumnSpan="2" VerticalAlignment="Bottom" Margin="0,0,0,10"/>
+                </Grid>
+            </Border>
+        </Border>
+    </Grid>
+</Window>

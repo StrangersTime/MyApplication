@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="ba6bf2ac6dba403ea6117075df872366" Name="Diagram1">
+        <EntityTypeShape EntityType="user91_dbModel.Olimp_Class" Width="1.5" PointX="0.75" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="user91_dbModel.Olimp_Difficulty" Width="1.5" PointX="0.75" PointY="6.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="user91_dbModel.Olimp_Olimp" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="user91_dbModel.Olimp_Registration" Width="1.5" PointX="5.25" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="user91_dbModel.Olimp_Role" Width="1.5" PointX="0.75" PointY="9.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="user91_dbModel.Olimp_Subject" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="user91_dbModel.Olimp_Users" Width="1.5" PointX="3" PointY="8.875" IsExpanded="true" />
+        <AssociationConnector Association="user91_dbModel.FK_Olimp_Olimp_Olimp_Class" ManuallyRouted="false" />
+        <AssociationConnector Association="user91_dbModel.FK_Olimp_Olimp_Olimp_Difficulty" ManuallyRouted="false" />
+        <AssociationConnector Association="user91_dbModel.FK_Olimp_Olimp_Olimp_Subject" ManuallyRouted="false" />
+        <AssociationConnector Association="user91_dbModel.FK_Olimp_Registration_Olimp_Olimp" ManuallyRouted="false" />
+        <AssociationConnector Association="user91_dbModel.FK_Olimp_Registration_Olimp_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="user91_dbModel.FK_Olimp_Users_Olimp_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

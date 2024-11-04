@@ -1,0 +1,110 @@
+﻿<Window x:Class="OlimpiadaForYou.RegistrationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:OlimpiadaForYou"
+        mc:Ignorable="d"
+        Title="Регистрация" Height="620" Width="1000" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Background="#FFD2B4B4" Icon="/icon.png">
+    <Window.Resources>
+        <Style TargetType="TextBlock">
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"></Setter>
+            <Setter Property="Foreground" Value="#FF370B0F"></Setter>
+            <Setter Property="FontSize" Value="14pt"></Setter>
+        </Style>
+
+        <Style TargetType="TextBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border BorderBrush="#FF370B0F" BorderThickness="2" CornerRadius="15" Background="White">
+                            <ScrollViewer x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"/>
+            <Setter Property="Foreground" Value="#FF370B0F"/>
+            <Setter Property="FontSize" Value="12pt"/>
+        </Style>
+
+        <Style TargetType="Button">
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"/>
+            <Setter Property="Background" Value="#FF370B0F"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="14pt"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" BorderThickness="2" CornerRadius="20">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FFE84526"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style TargetType="PasswordBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="PasswordBox">
+                        <Border BorderBrush="#FF370B0F" BorderThickness="2" CornerRadius="15" Background="White">
+                            <ScrollViewer x:Name="PART_ContentHost" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="VerticalContentAlignment" Value="Center"></Setter>
+            <Setter Property="FontFamily" Value="pack://application:,,,/Fonts/#Press Start 2P"/>
+            <Setter Property="Foreground" Value="#FF370B0F"/>
+            <Setter Property="FontSize" Value="12pt"/>
+        </Style>
+    </Window.Resources>
+    <Grid Height="585" VerticalAlignment="Top">
+        <StackPanel HorizontalAlignment="Left" Width="100">
+            <Image Source="image/pattern.png" Stretch="Fill" Width="450"/>
+            <Image Source="image/pattern.png" Stretch="Fill" Width="450"/>
+        </StackPanel>
+        <StackPanel HorizontalAlignment="Right" Width="100">
+            <Image Source="image/pattern.png" Stretch="Fill" Width="450"/>
+            <Image Source="image/pattern.png" Stretch="Fill" Width="450"/>
+        </StackPanel>
+        <Border CornerRadius="20" Background="#F8EAE1" HorizontalAlignment="Center" Width="700" Margin="0,17,0,17">
+            <StackPanel>
+                <TextBlock Text="РЕГИСТРАЦИЯ" HorizontalAlignment="Center" FontSize="32pt" Margin="0,20,0,0" Foreground="#FFE84526"/>
+                <Border HorizontalAlignment="Center" Width="500" Background="#FFE84526" CornerRadius="2" Margin="0,5,0,0">
+                    <TextBlock Height="5"></TextBlock>
+                </Border>
+                <TextBlock Text="А мы тебя уже заждались!" Margin="0,30,0,0" HorizontalAlignment="Center"></TextBlock>
+                <TextBlock Text="Пройди небольшую регистрацию и стань членом большой семьи гениев" TextWrapping="Wrap" MaxWidth="500" FontSize="10pt" Margin="0,10,0,0" HorizontalAlignment="Center" TextAlignment="Center"></TextBlock>
+                <Grid Height="265" Margin="0,30,0,0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Text="Ваша фамилия:" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="0"/>
+                    <TextBox x:Name="tb_Surname" HorizontalAlignment="Center" Margin="0,25,0,0" Width="300" Height="35" VerticalAlignment="Top" Padding="5" Grid.Column="0" PreviewTextInput="tb_Surname_PreviewTextInput"></TextBox>
+                    <TextBlock Text="Ваше имя:" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,85,0,0" Grid.Column="0"></TextBlock>
+                    <TextBox x:Name="tb_Name" HorizontalAlignment="Center" Margin="0,110,0,0" Width="300" Height="35" VerticalAlignment="Top" Grid.Column="0" Padding="5" PreviewTextInput="tb_Name_PreviewTextInput"></TextBox>
+                    <TextBlock Text="Ваше отчество:" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,170,0,0" Grid.Column="0"></TextBlock>
+                    <TextBox x:Name="tb_Patronymic" HorizontalAlignment="Center" Margin="0,195,0,0" Width="300" Height="35" VerticalAlignment="Top" Grid.Column="0" Padding="5" PreviewTextInput="tb_Patronymic_PreviewTextInput"></TextBox>
+                    <TextBlock HorizontalAlignment="Center" Margin="0,230,0,0" Width="200" Height="35" VerticalAlignment="Top" Grid.Column="0" Padding="5" Text="если нет отчества, оставь пустым" TextWrapping="Wrap" FontSize="10" TextAlignment="Center" Foreground="#FFAF555D"></TextBlock>
+                    <TextBlock Text="Ваш логин:" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="1"/>
+                    <TextBox x:Name="tb_Login" HorizontalAlignment="Center" Margin="0,25,0,0" Width="300" Height="35" VerticalAlignment="Top" Padding="5" Grid.Column="1"></TextBox>
+                    <TextBlock Text="Ваш пароль:" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,85,0,0" Grid.Column="1"></TextBlock>
+                    <TextBox x:Name="tb_Password" HorizontalAlignment="Center" Margin="0,110,0,0" Width="300" Height="35" VerticalAlignment="Top" Grid.Column="1" Padding="5"></TextBox>
+                    <TextBlock Text="Ваш день рождения:" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,170,0,0" Grid.Column="1"></TextBlock>
+                    <DatePicker x:Name="dp_DateOfBirth" HorizontalAlignment="Center" Margin="0,198,0,0" Width="300" VerticalAlignment="Top" Grid.Column="1" FontFamily="Press Start 2P" FontSize="22" Foreground="#FF370B0F" BorderBrush="{x:Null}"/>
+                </Grid>
+                <Button x:Name="But_Registration" Content="Зарегистрироваться" Cursor="Hand" HorizontalAlignment="Center" VerticalAlignment="Top" Width="400" Height="50" Margin="0,5,0,0" Click="But_Registration_Click"></Button>
+                <TextBlock x:Name="tb_Return" Text="Ой, тебе не сюда? Возвращайся назад!" FontSize="14" HorizontalAlignment="Center" TextAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Top" Margin="0,10,0,0" MouseDown="tb_Return_MouseDown" Cursor="Hand"></TextBlock>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

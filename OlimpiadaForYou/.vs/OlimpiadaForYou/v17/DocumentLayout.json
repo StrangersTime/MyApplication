@@ -1,37 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\",
+  "WorkspaceRootPath": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|c:\\users\\admin\\desktop\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\olimpiadaforyou\\olimpiadaforyou\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|e:\\\u043A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0432\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\olimpiadaforyou\\olimpiadaforyou\\olimpcreator.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\olimpcreator.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\olimpcreator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\olimpcreator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\olimplistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\olimplistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\userwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\userwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\addscore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\addscore.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\listusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\listusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\updateolimp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\updateolimp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\updateolimp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\createolimp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\listusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\listusers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\listusers.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\listusers.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\createolimp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\createolimp.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\creatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\creatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\creatorwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\edituser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\createolimp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\olimpiadaforyou\\createolimp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C274447-18D9-4340-BB49-B78AA737FD2F}|OlimpiadaForYou\\OlimpiadaForYou.csproj|solutionrelative:olimpiadaforyou\\createolimp.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -51,88 +67,135 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UserWindow.xaml",
-              "RelativeDocumentMoniker": "OlimpiadaForYou\\UserWindow.xaml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UserWindow.xaml",
-              "RelativeToolTip": "OlimpiadaForYou\\UserWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-03T13:30:54.426Z",
+              "Title": "OlimpCreator.xaml.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\OlimpCreator.xaml.cs",
+              "RelativeDocumentMoniker": "OlimpiadaForYou\\OlimpCreator.xaml.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\OlimpCreator.xaml.cs",
+              "RelativeToolTip": "OlimpiadaForYou\\OlimpCreator.xaml.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAQwHwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:26:59.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AddScore.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\AddScore.xaml",
-              "RelativeDocumentMoniker": "OlimpiadaForYou\\AddScore.xaml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\AddScore.xaml",
-              "RelativeToolTip": "OlimpiadaForYou\\AddScore.xaml",
+              "Title": "OlimpCreator.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\OlimpCreator.xaml",
+              "RelativeDocumentMoniker": "OlimpiadaForYou\\OlimpCreator.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\OlimpCreator.xaml",
+              "RelativeToolTip": "OlimpiadaForYou\\OlimpCreator.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-03T14:47:55.839Z"
+              "WhenOpened": "2024-11-05T19:26:40.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "OlimpListWindow.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\OlimpListWindow.xaml",
+              "RelativeDocumentMoniker": "OlimpiadaForYou\\OlimpListWindow.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\OlimpListWindow.xaml",
+              "RelativeToolTip": "OlimpiadaForYou\\OlimpListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T19:26:36.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserWindow.xaml.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UserWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OlimpiadaForYou\\UserWindow.xaml.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UserWindow.xaml.cs",
+              "RelativeToolTip": "OlimpiadaForYou\\UserWindow.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T19:21:33.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserWindow.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UserWindow.xaml",
+              "RelativeDocumentMoniker": "OlimpiadaForYou\\UserWindow.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UserWindow.xaml",
+              "RelativeToolTip": "OlimpiadaForYou\\UserWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-05T19:21:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListUsers.xaml.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\ListUsers.xaml.cs",
+              "RelativeDocumentMoniker": "OlimpiadaForYou\\ListUsers.xaml.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\ListUsers.xaml.cs",
+              "RelativeToolTip": "OlimpiadaForYou\\ListUsers.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:18:14.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ListUsers.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\ListUsers.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\ListUsers.xaml",
               "RelativeDocumentMoniker": "OlimpiadaForYou\\ListUsers.xaml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\ListUsers.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\ListUsers.xaml",
               "RelativeToolTip": "OlimpiadaForYou\\ListUsers.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-03T14:26:48.146Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "UpdateOlimp.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UpdateOlimp.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UpdateOlimp.xaml",
               "RelativeDocumentMoniker": "OlimpiadaForYou\\UpdateOlimp.xaml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UpdateOlimp.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\UpdateOlimp.xaml",
               "RelativeToolTip": "OlimpiadaForYou\\UpdateOlimp.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-03T14:03:18.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CreateOlimp.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml",
               "RelativeDocumentMoniker": "OlimpiadaForYou\\CreateOlimp.xaml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml",
               "RelativeToolTip": "OlimpiadaForYou\\CreateOlimp.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-03T13:50:17.664Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "CreatorWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreatorWindow.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreatorWindow.xaml",
               "RelativeDocumentMoniker": "OlimpiadaForYou\\CreatorWindow.xaml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreatorWindow.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreatorWindow.xaml",
               "RelativeToolTip": "OlimpiadaForYou\\CreatorWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-03T13:40:03.529Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "EditUser.xaml",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\EditUser.xaml",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\EditUser.xaml",
               "RelativeDocumentMoniker": "OlimpiadaForYou\\EditUser.xaml",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\EditUser.xaml",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\EditUser.xaml",
               "RelativeToolTip": "OlimpiadaForYou\\EditUser.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-03T13:34:09.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "CreateOlimp.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml.cs",
+              "DocumentMoniker": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml.cs",
               "RelativeDocumentMoniker": "OlimpiadaForYou\\CreateOlimp.xaml.cs",
-              "ToolTip": "C:\\Users\\admin\\Desktop\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml.cs",
+              "ToolTip": "E:\\\u041A\u0443\u0440\u0441\u043E\u0432\u0430\u044F\\\u0412\u0442\u043E\u0440\u043E\u0439 \u043A\u0443\u0440\u0441\u043E\u0432\u0438\u043A\\OlimpiadaForYou\\OlimpiadaForYou\\CreateOlimp.xaml.cs",
               "RelativeToolTip": "OlimpiadaForYou\\CreateOlimp.xaml.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAUwFYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

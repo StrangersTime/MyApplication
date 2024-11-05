@@ -25,6 +25,7 @@ namespace OlimpiadaForYou
             UpdateButtonStates();
         }
 
+        /// Загружает все регистрации участников для указанной олимпиады из базы данных.
         private void LoadRegistrations()
         {
             _allRegistrations = App.Context.Olimp_Registration
@@ -32,6 +33,7 @@ namespace OlimpiadaForYou
                 .ToList();
         }
 
+        /// Обновляет источник данных для DataGrid, отображая участников текущей страницы.
         private void UpdateDataGrid()
         {
             var participants = _allRegistrations
@@ -42,12 +44,14 @@ namespace OlimpiadaForYou
             DG_Users.ItemsSource = participants;
         }
 
+        /// Обновляет текстовое поле, отображающее номер текущей страницы и общее количество страниц.
         private void UpdatePageNumber()
         {
             PageNumber.Text = $"Страница {_currentPage} из {Math.Ceiling((double)_allRegistrations.Count / _itemsPerPage)}";
             UpdateButtonStates();
         }
 
+        /// Обновляет состояние кнопок навигации (Назад и Вперед) в зависимости от текущей страницы.
         private void UpdateButtonStates()
         {
             PreviousButton.IsEnabled = _currentPage > 1; 

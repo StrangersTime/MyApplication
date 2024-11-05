@@ -54,8 +54,6 @@ F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYo
 F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\Olimpiad.5F0B24A9.Up2Date
 F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.exe
 F:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.pdb
-E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ForTest.g.cs
-E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ForTest.baml
 C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe.config
 C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.exe
 C:\Users\admin\Desktop\OlimpiadaForYou\OlimpiadaForYou\bin\Debug\OlimpiadaForYou.pdb
@@ -152,3 +150,18 @@ C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaFo
 C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\Olimpiad.5F0B24A9.Up2Date
 C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.exe
 C:\Users\admin\Desktop\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpiadaForYou.pdb
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\AddScore.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ListUsers.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\AddScore.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\CreateOlimp.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\EditUser.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\ListUsers.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpCreator.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\OlimpListWindow.baml
+E:\Курсовая\Второй курсовик\OlimpiadaForYou\OlimpiadaForYou\obj\Debug\UpdateOlimp.baml

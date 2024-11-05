@@ -40,6 +40,7 @@ namespace OlimpiadaForYou
             }
         }
 
+        /// Обработчик события по клику. Обновляет результат участника, сохраняет его и возвращает на форму со списком участником
         private void But_Upd_Click(object sender, RoutedEventArgs e)
         {
             var adding = App.Context.Olimp_Registration.Find(_participantId);
@@ -56,6 +57,7 @@ namespace OlimpiadaForYou
             }
         }
 
+        /// Обработчик события по клику. Возвращает на форму со списком участником
         private void But_Return_Click(object sender, RoutedEventArgs e)
         {
             ListUsers listUsers = new ListUsers(_olimpId); 

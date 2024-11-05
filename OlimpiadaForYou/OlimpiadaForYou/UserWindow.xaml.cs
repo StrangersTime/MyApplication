@@ -35,6 +35,7 @@ namespace OlimpiadaForYou
         private List<Olimp_Olimp> _olimpList;
         private int _currentPage = 0;
 
+        /// Загружает список олимпиад, на которые зарегистрирован текущий пользователь, сортирует их и обновляет интерфейс.
         private void Olimpiadas()
         {
             _olimpList = App.Context.Olimp_Olimp
@@ -56,12 +57,14 @@ namespace OlimpiadaForYou
             }
         }
 
+        /// Обновляет видимость кнопок навигации (Назад и Вперед) в зависимости от текущей страницы.
         private void UpdateButtonVisibility()
         {
             But_Back.Visibility = _currentPage > 0 ? Visibility.Visible : Visibility.Hidden;
             But_Next.Visibility = _currentPage < _olimpList.Count - 1 ? Visibility.Visible : Visibility.Hidden;
         }
 
+        /// Отображает текущую олимпиаду на основе индекса текущей страницы.
         private void ShowCurrentItem()
         {
             if (_olimpList != null && _olimpList.Count > 0)
@@ -72,6 +75,7 @@ namespace OlimpiadaForYou
             }
         }
 
+        /// Обработчик клика по кнопке "Назад". Уменьшает текущую страницу и обновляет отображение.
         private void But_Back_Click(object sender, RoutedEventArgs e)
         {
             if (_currentPage > 0)
@@ -82,6 +86,7 @@ namespace OlimpiadaForYou
             }
         }
 
+        // Обработчик клика по кнопке "Вперед". Увеличивает текущую страницу и обновляет отображение.
         private void But_Next_Click(object sender, RoutedEventArgs e)
         {
             if (_currentPage < _olimpList.Count - 1)
@@ -91,6 +96,8 @@ namespace OlimpiadaForYou
                 UpdateButtonVisibility();
             }
         }
+
+        /// Обработчик события нажатия мыши на текстовом блоке для перехода к списку олимпиад.
         private void tb_Reg_MouseDown(object sender, MouseButtonEventArgs e)
         {
             OlimpListWindow olimpListWindow = new OlimpListWindow();
@@ -98,6 +105,7 @@ namespace OlimpiadaForYou
             this.Close();
         }
 
+        /// Обработчик клика по кнопке "Выйти". Открывает главное окно приложения.
         private void But_Return_Click(object sender, RoutedEventArgs e)
         {
             Window mainWindow = new MainWindow();
@@ -105,6 +113,8 @@ namespace OlimpiadaForYou
             this.Close();
         }
 
+
+        /// Обработчик клика по кнопке "Отказ". Удаляет регистрацию пользователя на олимпиаду, обновляет список олимпиад и отображает соответствующее сообщение.
         private void But_Refuse_Click(object sender, RoutedEventArgs e)
         {
             try
@@ -130,7 +140,7 @@ namespace OlimpiadaForYou
                         {
                             _currentPage--;
                         }
-
+                        Olimpiadas();
                         ShowCurrentItem();
                         UpdateButtonVisibility();
                     }
@@ -145,7 +155,7 @@ namespace OlimpiadaForYou
                 MessageBox.Show($"Произошла ошибка: {ex.Message}");
             }
         }
-
+        /// Обработчик клика по иконке. Переносит в окно с редактором профиля
         private void Edit_MouseDown(object sender, MouseButtonEventArgs e)
         {
             Window edit = new EditUser();

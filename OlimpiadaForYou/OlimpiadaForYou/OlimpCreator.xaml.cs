@@ -122,6 +122,7 @@ namespace OlimpiadaForYou
                         App.Context.SaveChanges();
 
                         MessageBox.Show("Олимпиада и связанные с ней регистрации удалены.");
+                        ListViewFull();
                     }
                 }
             }
